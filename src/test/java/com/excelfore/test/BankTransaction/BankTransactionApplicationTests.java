@@ -8,6 +8,7 @@ class BankTransactionApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Excelfore Bus App Is Loading Succussfully");
 	}
 
 }
