@@ -8,6 +8,7 @@ class BankTransactionApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Checking Something It is able to load or not");
 	}
 
 }
